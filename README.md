@@ -1,8 +1,9 @@
 # webpack-configuracion-estandar
+
 Fin de la sección 8
 
-
 ## Nota
+
 Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
 
 ```
@@ -13,4 +14,15 @@ Y para crear nuevamente el DIST
 
 ```
 npm start
+```
+
+### Comandos Git
+
+```
+git init
+git add .
+git commit -m "Primer Commit"
+git checkout -- .
+git log
+git push
 ```
